@@ -1,5 +1,8 @@
 //= require_tree ./libs
+//= require babel/polyfill
+
 //= require mqbe
+
 
 //= require_tree ./modules
 
